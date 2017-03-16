@@ -12,9 +12,9 @@ Inspiriert von [Awesome Lists](https://github.com/sindresorhus/awesome).
 
 ## Inhalt
 
-- [Videos](#Videos)
--  [Programmierumgebungen](#Programmierumgebungen)
-- [Ideen und Begleitmaterial für den Unterricht](#Ideen-und-Begleitmaterial-für-den -Unterricht)
+- [Videos](#videos)
+- [Programmierumgebungen](#programmierumgebungen)
+- [Ideen und Begleitmaterial für den Unterricht](#ideen-und-begleitmaterial-für-den-unterricht)
 
 ## Videos
  - [#minimachtschule (4:12)](https://www.youtube.com/watch?v=cVmtsJWxEUo&t=2s) - Werbung für das Calliope Projekt
