@@ -4,10 +4,10 @@
 
 <img src="https://github.com/philipphenkel/awesome-calliope/raw/master/media/calliope-mini-v1.0.png" alt="Calliope Mini v1.0" width="300">
 
-> Eine kuratierte Linksammlung für den Calliope Mini, einem Einplatinencomputer mit einem Bluetooth-fähigen ARM Mikrocontroller, Beschleunigungsmesser, Magnetometer, RGB LED,  LED-Matrix, Tasten, Lautsprecher, Mikrofon und zugänglichem GPIO für Erweiterungsmodule.
+> Eine kuratierte, deutschsprachige Linksammlung für den Calliope Mini, einem Einplatinencomputer mit einem Bluetooth-fähigen ARM Mikrocontroller, Beschleunigungsmesser, Magnetometer, RGB LED,  LED-Matrix, Tasten, Lautsprecher, Mikrofon und zugänglichem GPIO für Erweiterungsmodule.
 Vorrangiges Ziel des Projekts ist die Verbesserung der Schulbildung im Bereich der Informationstechnik, beginnend in der Grundschule.
 
-Inspiriert von [Awesome lists](https://github.com/sindresorhus/awesome).
+Inspiriert von [Awesome Lists](https://github.com/sindresorhus/awesome).
 
 
 ## Inhalt
