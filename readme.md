@@ -12,24 +12,29 @@ Inspiriert von [Awesome Lists](https://github.com/sindresorhus/awesome).
 
 ## Inhalt
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Videos](#Videos)
+-  [Programmierumgebungen](#Programmierumgebungen)
+- [Ideen und Begleitmaterial für den Unterricht](#Ideen-und-Begleitmaterial-für-den -Unterricht)
+
+## Videos
+ - [#minimachtschule (4:12)](https://www.youtube.com/watch?v=cVmtsJWxEUo&t=2s) - Werbung für das Calliope Projekt
+ - [Calliope mini - Erfahrungen, Tipps & Tricks](https://www.youtube.com/playlist?list=PLDe6WVZUD6thwLYmuKwlMT6MoF98VO8rB) - Video Tutorials der Software AG University Relations
+ - [Calliope mini](https://www.youtube.com/channel/UCsCRHdnWh4N5xZHXRAknTJw) - Offizieller Video-Kanal des Calliope mini Projektes
+
+## Programmierumgebungen
+
+- [Calliope mini Editor](miniedit.calliope.cc) - Stark eingeschränkter Editor für den Einstieg
+- [PXT](pxt.calliope.cc) - Editor von Microsoft
+- [Open Roberta Lab](lab.open-roberta.org) - Open-Source Programmierumgebung von Fraunhofer und Google
 
 
-## Section
+## Ideen und Begleitmaterial für den Unterricht
 
-About this section. Optional. Keep this short and focus on the list.
+### 3. Klasse
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### 4. Klasse
 
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+### 5. Klasse
 
 
 ## Beitragen
