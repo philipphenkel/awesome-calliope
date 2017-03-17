@@ -23,9 +23,9 @@ Inspiriert von [Awesome Lists](https://github.com/sindresorhus/awesome).
 
 ## Programmierumgebungen
 
-- [Calliope mini Editor](miniedit.calliope.cc) - Stark eingeschränkter Editor für den Einstieg
-- [PXT](pxt.calliope.cc) - Editor von Microsoft
-- [Open Roberta Lab](lab.open-roberta.org) - Open-Source Programmierumgebung von Fraunhofer und Google
+- [Calliope mini Editor](https://miniedit.calliope.cc) - Stark eingeschränkter Editor für den Einstieg
+- [PXT](https://pxt.calliope.cc) - Editor von Microsoft
+- [Open Roberta Lab](https://lab.open-roberta.org) - Open-Source Programmierumgebung von Fraunhofer und Google
 
 
 ## Ideen und Begleitmaterial für den Unterricht
