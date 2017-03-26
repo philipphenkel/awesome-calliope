@@ -1,5 +1,3 @@
-
-
 # awesome-calliope [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <img src="https://github.com/philipphenkel/awesome-calliope/raw/master/media/calliope-mini-v1.0.png" alt="Calliope Mini v1.0" width="300">
@@ -28,7 +26,11 @@ Inspiriert von [Awesome Lists](https://github.com/sindresorhus/awesome).
 - [Open Roberta Lab](https://lab.open-roberta.org) - Open-Source Programmierumgebung von Fraunhofer und Google
 
 
-## Ideen und Begleitmaterial für den Unterricht
+## Projekte, Ideen und Begleitmaterial für den Unterricht
+
+### 2. Klasse
+- [Tinkering Workshop](http://www.loick.de/blog/?p=1578) - Fantasielandschaften mit Stromkreisen aus Kupferklebeband
+- [Elektro-Basteln](http://www.beimnollar.de/2015/03/15/elektro-basteln-mit-grundschulkindern-erfahrungen-anleitung-und-material-liste/) - Stromkreise aus Kupferklebeband
 
 ### 3. Klasse
 
