@@ -28,15 +28,17 @@ Inspiriert von [Awesome Lists](https://github.com/sindresorhus/awesome).
 
 ## Projekte, Ideen und Begleitmaterial für den Unterricht
 
-### 2. Klasse
+### Allgemein
+- [Hackster.io](https://www.hackster.io/calliope-mini) - Sammlung kleiner Projekte
+
+### Klasse 2
 - [Tinkering Workshop](http://www.loick.de/blog/?p=1578) - Fantasielandschaften mit Stromkreisen aus Kupferklebeband
 - [Elektro-Basteln](http://www.beimnollar.de/2015/03/15/elektro-basteln-mit-grundschulkindern-erfahrungen-anleitung-und-material-liste/) - Stromkreise aus Kupferklebeband
 
-### 3. Klasse
-
-### 4. Klasse
-
-### 5. Klasse
+### Klasse 3 und höher
+- [Wetterstation]() - Ausführliches Unterrichtsmaterial von Code your Life, ab Klasse 3
+- [Cornelsen Lehrerhandreichung](https://calliope.cc/content/lehrer-informationen/9783066000122_cc_hru_gesamt_pdf.pdf) - Lehrermaterial für den Einsatz ab Klasse 3
+- [Pflanzenbewässerung](https://calliope.cc/content/lehrer-informationen/calliope_handreichung.pdf) - Fachdidaktische Handreichung der Bergischen Universität Wuppertal
 
 
 ## Beitragen
