@@ -16,7 +16,7 @@ Inspiriert von [Awesome Lists](https://github.com/sindresorhus/awesome).
 
 ## Videos
  - [#minimachtschule (4:12)](https://www.youtube.com/watch?v=cVmtsJWxEUo&t=2s) - Werbung für das Calliope Projekt
- - [Calliope mini - Erfahrungen, Tipps & Tricks](https://www.youtube.com/playlist?list=PLDe6WVZUD6thwLYmuKwlMT6MoF98VO8rB) - Video Tutorials der Software AG University Relations
+ - [Calliope mini - Erfahrungen, Tipps & Tricks](https://www.youtube.com/playlist?list=PLDe6WVZUD6thwLYmuKwlMT6MoF98VO8rB) - Video Tutorials der Software AG University Relationsl, inkl. Lego Power Functions Motorensteuerung
  - [Calliope mini](https://www.youtube.com/channel/UCsCRHdnWh4N5xZHXRAknTJw) - Offizieller Video-Kanal des Calliope mini Projektes
 
 ## Programmierumgebungen
