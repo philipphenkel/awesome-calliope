@@ -9,18 +9,24 @@ Inspiriert von [Awesome Lists](https://github.com/sindresorhus/awesome).
 
 
 ## Inhalt
-
+- [Technische Informationen](#technische-informationen)
 - [Videos](#videos)
 - [Programmierumgebungen](#programmierumgebungen)
-- [Projekte, Ideen und Begleitmaterial für den Unterricht](#projekte,-ideen-und-begleitmaterial-für-den-unterricht)
+- [Projekte, Ideen und Begleitmaterial für den Unterricht](#projekte-ideen-und-begleitmaterial-für-den-unterricht)
+
+
+## Technische Informationen
+- [Calliope v0.3, November 2016](https://calliope-mini.github.io/v03.html)
+- [Calliope v1.0, Juni 2017](https://calliope-mini.github.io/v10/)
+
 
 ## Videos
  - [#minimachtschule (4:12)](https://www.youtube.com/watch?v=cVmtsJWxEUo&t=2s) - Werbung für das Calliope Projekt
  - [Calliope mini - Erfahrungen, Tipps & Tricks](https://www.youtube.com/playlist?list=PLDe6WVZUD6thwLYmuKwlMT6MoF98VO8rB) - Video Tutorials der Software AG University Relations, inkl. Lego Power Functions Motorensteuerung
  - [Calliope mini](https://www.youtube.com/channel/UCsCRHdnWh4N5xZHXRAknTJw) - Offizieller Video-Kanal des Calliope mini Projektes
 
-## Programmierumgebungen
 
+## Programmierumgebungen
 - [Calliope mini Editor](https://miniedit.calliope.cc) - Stark eingeschränkter Editor für den Einstieg
 - [PXT](https://pxt.calliope.cc) - Editor von Microsoft
 - [Open Roberta Lab](https://lab.open-roberta.org) - Open-Source Programmierumgebung von Fraunhofer und Google
