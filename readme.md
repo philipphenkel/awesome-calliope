@@ -40,7 +40,7 @@ Die folgenden Pakete können in [MakeCode](https://makecode.calliope.cc/) genutz
 - [pxt-calliope-grove-mpr121](https://github.com/infchem/pxt-calliope-grove-mpr121) - I2C MPR121 Touchsensor
 - [MIDI](https://github.com/Microsoft/pxt-midi) - Emuliert einen Midi Ausgabekontroller
 
-Weitere Pakete sind auf [awesome-microbit](https://github.com/carlosperate/awesome-microbit) und auf [microbit-makecode-packages](https://github.com/microbit-makecode-packages) verlinkt.
+Weitere Pakete sind auf [awesome-microbit](https://github.com/carlosperate/awesome-microbit#makecode-packages) und auf [microbit-makecode-packages](https://github.com/microbit-makecode-packages) verlinkt.
 
 
 ## Projekte, Ideen und Begleitmaterial für den Unterricht
