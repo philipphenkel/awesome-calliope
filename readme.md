@@ -31,6 +31,12 @@ Inspiriert von [Awesome Lists](https://github.com/sindresorhus/awesome).
 - [MakeCode](https://makecode.calliope.cc/) - Editor von Microsoft
 - [Open Roberta Lab](https://lab.open-roberta.org) - Open-Source Programmierumgebung von Fraunhofer und Google
 
+## MakeCode Pakete
+
+Die folgenden Pakete können in [MakeCode](https://makecode.calliope.cc/) genutzt werden, in dem man die entsprechende GitHub URL in die Suchbox unter "Fortgeschritten" und "Paket hinzufügen" kopiert.
+
+- [Lego Power Functions](https://github.com/philipphenkel/pxt-powerfunctions) - Control your LEGO® Power Functions motors using your micro:bit with an infrared LED.
+- [MakerBit](https://github.com/1010Technologies/pxt-makerbit) - Blocks that support Roger Wagner's MakerBit board including Serial MP3, I2C LCD 1602, and ultrasonic.
 
 ## Projekte, Ideen und Begleitmaterial für den Unterricht
 
