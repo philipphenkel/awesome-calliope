@@ -35,8 +35,13 @@ Inspiriert von [Awesome Lists](https://github.com/sindresorhus/awesome).
 
 Die folgenden Pakete können in [MakeCode](https://makecode.calliope.cc/) genutzt werden, in dem man die entsprechende GitHub URL in die Suchbox unter "Fortgeschritten" und "Paket hinzufügen" kopiert.
 
-- [Lego Power Functions](https://github.com/philipphenkel/pxt-powerfunctions) - Control your LEGO® Power Functions motors using your micro:bit with an infrared LED.
-- [MakerBit](https://github.com/1010Technologies/pxt-makerbit) - Blocks that support Roger Wagner's MakerBit board including Serial MP3, I2C LCD 1602, and ultrasonic.
+- [Lego Power Functions](https://github.com/philipphenkel/pxt-powerfunctions) - Steuere deine LEGO® Power Functions Motoren mit nur einer Infrarot LED.
+- [MakerBit](https://github.com/1010Technologies/pxt-makerbit) - Blöcke zum Ansteuern von Serial MP3 und I2C LCD 1602 Erweiterungen
+- [pxt-calliope-grove-mpr121](https://github.com/infchem/pxt-calliope-grove-mpr121) - I2C MPR121 Touchsensor
+- [MIDI](https://github.com/Microsoft/pxt-midi) - Emuliert einen Midi Ausgabekontroller
+
+Weitere Pakete sind auf [awesome-microbit](https://github.com/carlosperate/awesome-microbit) und auf [microbit-makecode-packages](https://github.com/microbit-makecode-packages) verlinkt.
+
 
 ## Projekte, Ideen und Begleitmaterial für den Unterricht
 
