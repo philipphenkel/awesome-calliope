@@ -40,7 +40,7 @@ Die folgenden Pakete können in [MakeCode](https://makecode.calliope.cc/) genutz
 - [pxt-calliope-grove-mpr121](https://github.com/infchem/pxt-calliope-grove-mpr121) - I2C MPR121 Touchsensor
 - [MIDI](https://github.com/Microsoft/pxt-midi) - Emuliert einen Midi Ausgabekontroller
 - [Seeed Temperatursensor](https://github.com/MKleinSB/pxt-seeed-temperature) - Paket für den Seeed Temperatursensor (V1)
-- [ESP-Thingspeak](hhttps://github.com/MKleinSB/pxt-esp-thingspeak) - Thingspeak mit Calliope Mini und ESP8266
+- [ESP-Thingspeak](https://github.com/MKleinSB/pxt-esp-thingspeak) - Thingspeak mit Calliope Mini und ESP8266
 - [OLED SSD1306](https://github.com/MKleinSB/pxt-OLED-SSD1306) - Ein SSD1306-Oled mit deutschen Sonderzeichen ansteuern
 - [OLED SSD1306 GAMES](https://github.com/MKleinSB/pxt-OLED-SSD1306-GAMES) - SSD1306-Spielblöcke mit Spiel "Herzfänger"
 - [Touchpins](https://github.com/MKleinSB/pxt-calliope-buttons) - Echtes Touch an analogen Calliope Pins (V1)
