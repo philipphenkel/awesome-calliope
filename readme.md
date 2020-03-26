@@ -39,6 +39,19 @@ Die folgenden Pakete können in [MakeCode](https://makecode.calliope.cc/) genutz
 - [MakerBit](https://github.com/1010Technologies/pxt-makerbit) - Blöcke zum Ansteuern von Serial MP3 und I2C LCD 1602 Erweiterungen
 - [pxt-calliope-grove-mpr121](https://github.com/infchem/pxt-calliope-grove-mpr121) - I2C MPR121 Touchsensor
 - [MIDI](https://github.com/Microsoft/pxt-midi) - Emuliert einen Midi Ausgabekontroller
+- [Seeed Temperatursensor](https://github.com/MKleinSB/pxt-seeed-temperature) - Paket für den Seeed Temperatursensor (V1)
+- [ESP-Thingspeak](hhttps://github.com/MKleinSB/pxt-esp-thingspeak) - Thingspeak mit Calliope Mini und ESP8266
+- [OLED SSD1306](https://github.com/MKleinSB/pxt-OLED-SSD1306) - Ein SSD1306-Oled mit deutschen Sonderzeichen ansteuern
+- [OLED SSD1306 GAMES](https://github.com/MKleinSB/pxt-OLED-SSD1306-GAMES) - SSD1306-Spielblöcke mit Spiel "Herzfänger"
+- [Touchpins](https://github.com/MKleinSB/pxt-calliope-buttons) - Echtes Touch an analogen Calliope Pins (V1)
+- [Serial LCD](https://github.com/MKleinSB/pxt-serial-LCD) - Paket für Hundatech serial LCD (V1)
+- [Mikrofon](https://github.com/MKleinSB/pxt-mikrofon) - Lautstärkeblock von 0-100% für Calliope Mini statt über analogen Pin
+- [Remember Int](https://github.com/MKleinSB/pxt-remember-int) - Zahlen auch nach dem Ausschalten im Calliope Mini Speichern 
+- [ds18b20](https://github.com/MKleinSB/pxt-ds18b20-calliope) - den ds18b20 Temperatursensor auslesen
+- [pca9685 Servotreiber](https://github.com/MKleinSB/pxt-pca9685) - einfaches Ansteuern des pca9685 16fach Servotreiberbausteins
+
+
+(V1) benötigt makecode.calliope.cc/beta
 
 Weitere Pakete sind auf [awesome-microbit](https://github.com/carlosperate/awesome-microbit#makecode-packages) und auf [microbit-makecode-packages](https://github.com/microbit-makecode-packages) verlinkt.
 
